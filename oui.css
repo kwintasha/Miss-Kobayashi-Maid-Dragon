@@ -8,7 +8,7 @@ body{background-color: #DCC3FF;}
 header { 
 top:0px;
 left:0px;
-width:500px;
+
 height:50px;
 background-color: #B3F2FF;
 }
@@ -24,7 +24,7 @@ font-size : 30px ; Text-decoration : underline;
 nav { 
 top:50px;
 left:0px;
-width:500px;
+
 height:50px;
 background-color: pink;
 }
@@ -40,8 +40,8 @@ margin-left : 5px;
 section { 
 margin-left :310px;
 top:100px;
-right:100px;
-width:870px; 
+
+ 
 height:3700px;
 font-family : Arial, Helvetica, sans-serif;
 }

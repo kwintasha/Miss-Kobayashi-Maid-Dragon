@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="oui.css">
 </head>
 
-<header> <br> <h1>_____________________</h1> </header>
+<header> <br> <h1> </h1> </header>
 
 <nav> <i> <h2> 
     <br>

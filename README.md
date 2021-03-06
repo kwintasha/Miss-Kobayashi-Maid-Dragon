@@ -30,7 +30,7 @@
 </blockquote> 
 
 <br>
-   <footer>â€”Miss Kobayashi's Dragon Maid, <cite>
+   <footer>Miss Kobayashi's Dragon Maid, <cite>
   <a href=https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon?q=miss 
      target="_blank">MyAnimeList</a></cite></footer>
 <br> 
@@ -93,14 +93,14 @@
 <li> <u> Le groupe de musique : </u> 
 <br> <br>
 
-<blockquote cite= "https://en.wikipedia.org/wiki/FhÃ¡na">
-    <p>FhÃ¡na (stylized as fhÃ¡na ) is a four-member Japanese pop band that formed in 2012 as an indie band. 
+<blockquote cite= "https://en.wikipedia.org/wiki/Fhána">
+    <p> Fhána is a four-member Japanese pop band that formed in 2012 as an indie band. 
     After releasing one album independently, they were signed in 2013 to Lantis. 
     They released their debut single "Que Sera Sera" in August 2013.</p>
 </blockquote> 
 
 <br>
-    <footer> <cite><a href=https://en.wikipedia.org/wiki/FhÃ¡na>MyAnimeList</a></cite></footer>
+    <footer> <cite><a href=https://en.wikipedia.org/wiki/Fhána>MyAnimeList</a></cite></footer>
 <br> 
 
 <br>
@@ -127,7 +127,7 @@
      <li> <a href=https://www.neko-sama.fr/anime/info/8532-kobayashi-san-chi-no-maid-dragon
      target="_blank">Neko-Sama</a>
      <li> <a href=https://www.crunchyroll.com/miss-kobayashis-dragon-maid
-     target="_blank">Crunchyroll</a> <i> (je trouve qu'il y a beaucoup de pubs sur celui lÃ ) </i> 
+     target="_blank">Crunchyroll</a> <i> (je trouve qu'il y a beaucoup de pubs sur celui là) </i> 
      <li> Cet anime est aussi disponible sur 
      <a href=https://www.netflix.com/fr-en/Login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse
      target="_blank">Netflix</a>.

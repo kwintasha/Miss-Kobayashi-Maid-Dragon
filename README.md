@@ -1,19 +1,22 @@
 
+<!DOCTYPE html>
+
 <link rel="icon" href="https://clipartart.com/images/free-clipart-cat-face-6.png">
 
 <html>
 <body>
-
 <head>
+    <title>weeb weeb</title>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="oui.css">
 </head>
 
+<header> <br> <h1>Miss Kobayashi Maid Dragon</h1> </header>
 
 <nav> <i> <h2> 
     <br>
     <marquee behavior="scroll" direction="right">Présentation en franglais de l'anime "Miss Kobayashi's Dragon Maid" </marquee>
- </h2> 
+</i> </h2> </nav>
  
 <section>
 
@@ -30,7 +33,7 @@
 </blockquote> 
 
 <br>
-   <footer>Miss Kobayashi's Dragon Maid, <cite>
+   <footer>—Miss Kobayashi's Dragon Maid, <cite>
   <a href=https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon?q=miss 
      target="_blank">MyAnimeList</a></cite></footer>
 <br> 
@@ -57,7 +60,7 @@
   </tr>  
   
   <tr>
-    <td>Kobayashi 
+    <td>Kobayashi (小林さん) 
     <a class="kobayashi.png" data-lightbox="kobayashi.png" 
     href="kobayashi.png"><img class="example-image" 
     src="kobayashi.png"></a> 
@@ -68,7 +71,7 @@
   </tr>
  
   <tr>
-    <td>Tooru 
+    <td>Tooru (トール) 
     <a class="tohru.png" data-lightbox="tohru.png" 
     href="tohru.png"><img class="example-image" 
     src="tohru.png"></a> 
@@ -79,7 +82,7 @@
   </tr>
   
   <tr>
-    <td>Kanna Kamui
+    <td>Kanna Kamui (カンナカムイ)
     <a class="kanna.png" data-lightbox="kanna.png" 
     href="kanna.png"><img class="example-image"  
     src="kanna.png"></a> 
@@ -94,13 +97,13 @@
 <br> <br>
 
 <blockquote cite= "https://en.wikipedia.org/wiki/Fhána">
-    <p> Fhána is a four-member Japanese pop band that formed in 2012 as an indie band. 
+    <p>Fhána (stylized as fhána ) is a four-member Japanese pop band that formed in 2012 as an indie band. 
     After releasing one album independently, they were signed in 2013 to Lantis. 
     They released their debut single "Que Sera Sera" in August 2013.</p>
 </blockquote> 
 
 <br>
-    <footer> <cite><a href=https://en.wikipedia.org/wiki/Fhána>MyAnimeList</a></cite></footer>
+    <footer>—Fhána, <cite><a href=https://en.wikipedia.org/wiki/Fhána>MyAnimeList</a></cite></footer>
 <br> 
 
 <br>
@@ -112,7 +115,7 @@
 <li> <u> Members : </u>
 <br> <br>
 
-<ul><li>Jun'ichi (composition, keyboards, vocals, leader)</li>
+<ul><li>Jun'ichi Satō (佐藤 純一, Satō Jun'ichi) (composition, keyboards, vocals, leader)</li>
     <li>Yuxuki Waga (composition, guitar)</li>
     <li>Kevin Mitsunaga (composition, sampler, metallophone)</li>
     <li>Towana (vocals)
@@ -152,4 +155,3 @@ Kannakamui GIFs</a></div><script type="text/javascript" async src="https://tenor
 </section>
 </body>
 </html>
-

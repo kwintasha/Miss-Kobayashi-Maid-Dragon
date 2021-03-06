@@ -1,4 +1,3 @@
-# weeb.github.io
 <!DOCTYPE html>
 
 <link rel="icon" href="https://clipartart.com/images/free-clipart-cat-face-6.png">

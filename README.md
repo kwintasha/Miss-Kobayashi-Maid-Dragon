@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <link rel="icon" href="https://clipartart.com/images/free-clipart-cat-face-6.png">
 
@@ -14,7 +13,7 @@
 <nav> <i> <h2> 
     <br>
     <marquee behavior="scroll" direction="right">Présentation en franglais de l'anime "Miss Kobayashi's Dragon Maid" </marquee>
-</i> </h2> </nav>
+ </h2> 
  
 <section>
 
@@ -58,7 +57,7 @@
   </tr>  
   
   <tr>
-    <td>Kobayashi (å°æž—ã•ã‚“) 
+    <td>Kobayashi 
     <a class="kobayashi.png" data-lightbox="kobayashi.png" 
     href="kobayashi.png"><img class="example-image" 
     src="kobayashi.png"></a> 
@@ -69,7 +68,7 @@
   </tr>
  
   <tr>
-    <td>Tooru (ãƒˆãƒ¼ãƒ«) 
+    <td>Tooru 
     <a class="tohru.png" data-lightbox="tohru.png" 
     href="tohru.png"><img class="example-image" 
     src="tohru.png"></a> 
@@ -80,7 +79,7 @@
   </tr>
   
   <tr>
-    <td>Kanna Kamui (ã‚«ãƒ³ãƒŠã‚«ãƒ ã‚¤)
+    <td>Kanna Kamui
     <a class="kanna.png" data-lightbox="kanna.png" 
     href="kanna.png"><img class="example-image"  
     src="kanna.png"></a> 
@@ -101,7 +100,7 @@
 </blockquote> 
 
 <br>
-    <footer>â€”FhÃ¡na, <cite><a href=https://en.wikipedia.org/wiki/FhÃ¡na>MyAnimeList</a></cite></footer>
+    <footer> <cite><a href=https://en.wikipedia.org/wiki/FhÃ¡na>MyAnimeList</a></cite></footer>
 <br> 
 
 <br>
@@ -113,7 +112,7 @@
 <li> <u> Members : </u>
 <br> <br>
 
-<ul><li>Jun'ichi SatÅ (ä½è—¤ ç´”ä¸€, SatÅ Jun'ichi) (composition, keyboards, vocals, leader)</li>
+<ul><li>Jun'ichi (composition, keyboards, vocals, leader)</li>
     <li>Yuxuki Waga (composition, guitar)</li>
     <li>Kevin Mitsunaga (composition, sampler, metallophone)</li>
     <li>Towana (vocals)

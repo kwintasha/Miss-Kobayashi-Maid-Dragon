@@ -33,7 +33,7 @@
 </blockquote> 
 
 <br>
-   <footer>—Miss Kobayashi's Dragon Maid <cite>
+   <footer>—Miss Kobayashi's Dragon Maid, https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon?q=miss&cat=anime <cite>
   
 <br> 
 
@@ -102,7 +102,7 @@
 </blockquote> 
 
 <br>
-    <footer>—Fhána <cite></cite></footer>
+    <footer>—Fhána, https://en.wikipedia.org/wiki/Fhána <cite></cite></footer>
 <br> 
 
 <br>

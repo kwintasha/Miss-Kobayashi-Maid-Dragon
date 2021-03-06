@@ -8,7 +8,6 @@ body{background-color: #DCC3FF;}
 header { 
 top:0px;
 left:0px;
-
 height:50px;
 background-color: #B3F2FF;
 }
@@ -17,14 +16,12 @@ background-color: #B3F2FF;
 h1 {
 font-family : "Lucida Console", Monaco, monospace;
 font-size : 30px ; Text-decoration : underline;
-
 }
 
 
 nav { 
 top:50px;
 left:0px;
-
 height:50px;
 background-color: pink;
 }
@@ -39,8 +36,6 @@ margin-left : 5px;
 
 section { 
 top:100px;
-
- 
 height:3700px;
 font-family : Arial, Helvetica, sans-serif;
 }
@@ -59,7 +54,4 @@ padding: 15px;
 background: #ffff;
 border-radius: 20px;
 }
-
-
-
 

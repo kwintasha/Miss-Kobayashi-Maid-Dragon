@@ -1,7 +1,10 @@
+<!DOCTYPE html>
+
 <link rel="icon" href="https://clipartart.com/images/free-clipart-cat-face-6.png">
 
 <html>
 <body>
+
 <head>
     <title>weeb weeb</title>
     <meta charset="utf-8">
@@ -13,7 +16,7 @@
 <nav> <i> <h2> 
     <br>
     <marquee behavior="scroll" direction="right">Présentation en franglais de l'anime "Miss Kobayashi's Dragon Maid" </marquee>
- </h2> 
+</i> </h2> </nav>
  
 <section>
 
@@ -31,7 +34,8 @@
 
 <br>
    <footer>—Miss Kobayashi's Dragon Maid, <cite>
-  
+  <a href=https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon?q=miss 
+     target="_blank">MyAnimeList</a></cite></footer>
 <br> 
 
 <br>
@@ -151,3 +155,4 @@ Kannakamui GIFs</a></div><script type="text/javascript" async src="https://tenor
 </section>
 </body>
 </html>
+

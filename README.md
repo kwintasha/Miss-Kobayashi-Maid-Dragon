@@ -6,7 +6,6 @@
 <body>
 
 <head>
-    <title>weeb weeb</title>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="oui.css">
 </head>

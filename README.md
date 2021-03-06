@@ -62,7 +62,8 @@
     <a class="kobayashi.png" data-lightbox="kobayashi.png" 
     href="kobayashi.png"><img class="example-image" 
     src="kobayashi.png"></a> 
-   
+   </td>
+</td>
     <td>A normal office worker who suddenly finds herself living with a dragon.</td>
     <td>Tamura, Mutsumi</td>
   </tr>

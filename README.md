@@ -11,7 +11,6 @@
     <link rel="stylesheet" type="text/css" href="oui.css">
 </head>
 
-<header> <br> <h1>Miss Kobayashi Maid Dragon</h1> </header>
 
 <nav> <i> <h2> 
     <br>
